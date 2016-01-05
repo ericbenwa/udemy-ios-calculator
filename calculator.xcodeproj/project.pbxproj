@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		463BCA581C34DAEB005D6E28 /* Starjedi.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 463BCA571C34DAEB005D6E28 /* Starjedi.ttf */; };
+		46548C4A1C3777AF00C97D84 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 46548C491C3777AF00C97D84 /* btn.wav */; };
 		4672B7A11C34C403007387F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4672B7A01C34C403007387F4 /* AppDelegate.swift */; };
 		4672B7A31C34C403007387F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4672B7A21C34C403007387F4 /* ViewController.swift */; };
 		4672B7A61C34C403007387F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4672B7A41C34C403007387F4 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		463BCA571C34DAEB005D6E28 /* Starjedi.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Starjedi.ttf; sourceTree = "<group>"; };
+		46548C491C3777AF00C97D84 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 		4672B79D1C34C403007387F4 /* calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4672B7A01C34C403007387F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4672B7A21C34C403007387F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		4672B79F1C34C403007387F4 /* calculator */ = {
 			isa = PBXGroup;
 			children = (
+				46548C491C3777AF00C97D84 /* btn.wav */,
 				463BCA571C34DAEB005D6E28 /* Starjedi.ttf */,
 				4672B7A01C34C403007387F4 /* AppDelegate.swift */,
 				4672B7A21C34C403007387F4 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46548C4A1C3777AF00C97D84 /* btn.wav in Resources */,
 				4672B7AB1C34C403007387F4 /* LaunchScreen.storyboard in Resources */,
 				4672B7A81C34C403007387F4 /* Assets.xcassets in Resources */,
 				463BCA581C34DAEB005D6E28 /* Starjedi.ttf in Resources */,
